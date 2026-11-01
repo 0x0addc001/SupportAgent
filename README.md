@@ -6,8 +6,6 @@ SupportAgent resolves customer conversations through grounded retrieval, control
 
 面向客服业务的 Agent：通过可溯源检索、受控账户操作和安全升级机制解决客户问题。
 
-**Status:** Project scaffold · [Portfolio](https://0x0addc001.github.io/#use-cases)
-
 ## Agent loop
 
 | Stage | Responsibility |
